@@ -2383,7 +2383,7 @@
             "episode": 32,
             "name": "S02E32: The Voice",
             "info": {
-              "plot": "When Gumball and Darwin receive a scary email everyone is a suspect… including themselves!",
+              "plot": "When Gumball and Darwin receive a scary email everyone is a suspectÂ… including themselves!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024609X0-landscape.jpg",
@@ -3303,7 +3303,7 @@
             "episode": 32,
             "name": "S02E32: The Voice",
             "info": {
-              "plot": "When Gumball and Darwin receive a scary email everyone is a suspect… including themselves!",
+              "plot": "When Gumball and Darwin receive a scary email everyone is a suspectÂ… including themselves!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024609X0-landscape.jpg",
@@ -3653,7 +3653,7 @@
             "episode": 7,
             "name": "S03E07: The Name",
             "info": {
-              "plot": "When Gumball discovers his real name is Zach…He starts acting like one!",
+              "plot": "When Gumball discovers his real name is ZachÂ…He starts acting like one!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/027079X0-landscape.jpg",
@@ -4573,7 +4573,7 @@
             "episode": 7,
             "name": "S03E07: The Name",
             "info": {
-              "plot": "When Gumball discovers his real name is Zach…He starts acting like one!",
+              "plot": "When Gumball discovers his real name is ZachÂ…He starts acting like one!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/027079X0-landscape.jpg",
@@ -7435,7 +7435,7 @@
             "episode": 11,
             "name": "S05E11: The Ollie",
             "info": {
-              "plot": "Gumball kind of teaches Darwin how to be a skater…",
+              "plot": "Gumball kind of teaches Darwin how to be a skaterÂ…",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024786X0-landscape.jpg",
@@ -8240,7 +8240,7 @@
             "episode": 11,
             "name": "S05E11: The Ollie",
             "info": {
-              "plot": "Gumball kind of teaches Darwin how to be a skater…",
+              "plot": "Gumball kind of teaches Darwin how to be a skaterÂ…",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024786X0-landscape.jpg",
@@ -9303,7 +9303,7 @@
             "episode": 22,
             "name": "S06E22: The Transformation",
             "info": {
-              "plot": "Gumball is asked to settle a dispute between Penny and her family!",
+              "plot": "Gumball is askedÂ to settle a dispute between Penny and her family!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024957X0-landscape.jpg",
@@ -10223,7 +10223,7 @@
             "episode": 22,
             "name": "S06E22: The Transformation",
             "info": {
-              "plot": "Gumball is asked to settle a dispute between Penny and her family!",
+              "plot": "Gumball is askedÂ to settle a dispute between Penny and her family!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se973-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024957X0-landscape.jpg",
@@ -10670,7 +10670,7 @@
             "episode": 1,
             "name": "S01E01: Mothers Day",
             "info": {
-              "plot": "Gumball, Darwin and Anais need to find a Mother’s Day gift.",
+              "plot": "Gumball, Darwin and Anais need to find a MotherÂ’s Day gift.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033224X0-landscape.jpg",
@@ -10691,7 +10691,7 @@
             "episode": 2,
             "name": "S01E02: Elmore'S Most Wanted",
             "info": {
-              "plot": "Gumball’s dad has been revealed as \"Elmore's Most Wanted\".",
+              "plot": "GumballÂ’s dad has been revealed as \"Elmore's Most Wanted\".",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033225X0-landscape.jpg",
@@ -10712,7 +10712,7 @@
             "episode": 3,
             "name": "S01E03: The Curse Of Elmore",
             "info": {
-              "plot": "The creepy mystery of Elmore’s ghostly past unfolds.",
+              "plot": "The creepy mystery of ElmoreÂ’s ghostly past unfolds.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033226X0-landscape.jpg",
@@ -10731,7 +10731,7 @@
           },
           {
             "episode": 4,
-            "name": "S01E04: Vote Gumball… And Penny?",
+            "name": "S01E04: Vote GumballÂ… And Penny?",
             "info": {
               "plot": "Gumball is running for School President.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
@@ -10752,9 +10752,9 @@
           },
           {
             "episode": 5,
-            "name": "S01E05: Vote Gumball… And Leslie?",
+            "name": "S01E05: Vote GumballÂ… And Leslie?",
             "info": {
-              "plot": "Gumball is running for School President and is looking for a worthy running mate. He hopes Leslie’s new-found cheer-team fame will elevate his campaign, but Leslie won’t play ball.",
+              "plot": "Gumball is running forÂ School PresidentÂ and is looking for a worthy running mate. He hopes LeslieÂ’s new-found cheer-team fame will elevate his campaign, but Leslie wonÂ’t play ball.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033228X0-landscape.jpg",
@@ -10773,9 +10773,9 @@
           },
           {
             "episode": 6,
-            "name": "S01E06: Vote Gumball… And Bobert?",
+            "name": "S01E06: Vote GumballÂ… And Bobert?",
             "info": {
-              "plot": "Gumball is running for School President and is looking for a worthy running mate. He turns his attention to Bobert, the school's electronic wonderkid.",
+              "plot": "Gumball is running forÂ School PresidentÂ and is looking for a worthy running mate. He turns his attention to Bobert, the school's electronic wonderkid.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033229X0-landscape.jpg",
@@ -10794,9 +10794,9 @@
           },
           {
             "episode": 7,
-            "name": "S01E07: Vote Gumball… And Anyone?",
+            "name": "S01E07: Vote GumballÂ… And Anyone?",
             "info": {
-              "plot": "Gumball is running for School President and is looking for a worthy running mate. He is running out of options - will anybody, or anything, be his vice president?",
+              "plot": "Gumball is running forÂ School PresidentÂ and is looking for a worthy running mate. He is running out of options - will anybody, or anything, be his vice president?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033230X0-landscape.jpg",
@@ -10817,7 +10817,7 @@
             "episode": 8,
             "name": "S01E08: Ancestor Act",
             "info": {
-              "plot": "When Gumball’s sister Anais researches the Watterson family tree, she uncovers a long history of nonsense.",
+              "plot": "When GumballÂ’s sister Anais researches the Watterson family tree, she uncovers a long history of nonsense.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1472-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033231X0-landscape.jpg",
@@ -10993,7 +10993,7 @@
             "episode": 2,
             "name": "S01E02: Pineapple",
             "info": {
-              "plot": "Gumball kehilangan mulut anak patungnya seketika kepada Nenas yang bersemangat",
+              "plot": "Gumball kehilangan mulut anak patungnya seketika kepada Nenas yangÂ bersemangat",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033592X0-landscape.jpg",
@@ -11013,7 +11013,7 @@
             "episode": 3,
             "name": "S01E03: Infinite Loop",
             "info": {
-              "plot": "Gumball dan Darwin menemui anak patung tangan versi kecil mereka dan terperangkap dalam kitaran anak patung yang tiada penghujung.",
+              "plot": "Gumball dan Darwin menemui anak patung tangan versiÂ kecil mereka dan terperangkap dalam kitaran anak patung yang tiada penghujung.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033593X0-landscape.jpg",
@@ -11093,7 +11093,7 @@
             "episode": 7,
             "name": "S01E07: Insulting Voices",
             "info": {
-              "plot": "Gumball dan Darwin bermain dengan anak patung tangan versi kecil mereka. Dan ia meniru suara mereka dengan sangat teruk",
+              "plot": "Gumball dan Darwin bermain denganÂ anak patung tangan versi kecil mereka. Dan ia meniru suara mereka dengan sangatÂ teruk",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1583-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/033597X0-landscape.jpg",
@@ -11363,7 +11363,7 @@
             "episode": 11,
             "name": "S01E11: Wizard",
             "info": {
-              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeah…. itu semuanya.",
+              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeahÂ…. itu semuanya.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021663X0-landscape.jpg",
@@ -11913,7 +11913,7 @@
             "episode": 11,
             "name": "S01E11: Wizard",
             "info": {
-              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeah…. itu semuanya.",
+              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeahÂ…. itu semuanya.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021663X0-landscape.jpg",
@@ -12463,7 +12463,7 @@
             "episode": 11,
             "name": "S01E11: Wizard",
             "info": {
-              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeah…. itu semuanya.",
+              "plot": "Finn dengan sendiri mengejar kuasa yang ditawarkan oleh ahli sihir tua , sehingga dia belajar yang kuasa hebat datang , yeah yeah yeahÂ…. itu semuanya.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021663X0-landscape.jpg",
@@ -12798,7 +12798,7 @@
             "episode": 1,
             "name": "S02E01: Loyalty To The King",
             "info": {
-              "plot": "Terdapat \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
+              "plot": "TerdapatÂ \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021678X0-landscape.jpg",
@@ -13370,7 +13370,7 @@
             "episode": 1,
             "name": "S02E01: Loyalty To The King",
             "info": {
-              "plot": "Terdapat \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
+              "plot": "TerdapatÂ \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021678X0-landscape.jpg",
@@ -13942,7 +13942,7 @@
             "episode": 1,
             "name": "S02E01: Loyalty To The King",
             "info": {
-              "plot": "Terdapat \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
+              "plot": "TerdapatÂ \"Nice King\" yang baru di Ooo , dan dia nampak seperti orang lain yang kami kenali",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021678X0-landscape.jpg",
@@ -14871,7 +14871,7 @@
             "episode": 19,
             "name": "S03E19: Holly Jolly Secrets Part I",
             "info": {
-              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkar….",
+              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkarÂ….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021722X0-landscape.jpg",
@@ -14937,7 +14937,7 @@
             "episode": 22,
             "name": "S03E22: Incendium",
             "info": {
-              "plot": "Jake mengatur Finn bertemu Flame Princess - dengan hasil yang berapi-api.",
+              "plot": "Jake mengatur Finn bertemu Flame Princess -Â dengan hasil yang berapi-api.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021725X0-landscape.jpg",
@@ -15375,7 +15375,7 @@
             "episode": 19,
             "name": "S03E19: Holly Jolly Secrets Part I",
             "info": {
-              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkar….",
+              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkarÂ….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021722X0-landscape.jpg",
@@ -15441,7 +15441,7 @@
             "episode": 22,
             "name": "S03E22: Incendium",
             "info": {
-              "plot": "Jake mengatur Finn bertemu Flame Princess - dengan hasil yang berapi-api.",
+              "plot": "Jake mengatur Finn bertemu Flame Princess -Â dengan hasil yang berapi-api.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021725X0-landscape.jpg",
@@ -15879,7 +15879,7 @@
             "episode": 19,
             "name": "S03E19: Holly Jolly Secrets Part I",
             "info": {
-              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkar….",
+              "plot": "Finn dan Jake terjumpa video diari Ice King dan melihat rahsia yang terbongkarÂ….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021722X0-landscape.jpg",
@@ -15945,7 +15945,7 @@
             "episode": 22,
             "name": "S03E22: Incendium",
             "info": {
-              "plot": "Jake mengatur Finn bertemu Flame Princess - dengan hasil yang berapi-api.",
+              "plot": "Jake mengatur Finn bertemu Flame Princess -Â dengan hasil yang berapi-api.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021725X0-landscape.jpg",
@@ -16383,7 +16383,7 @@
             "episode": 18,
             "name": "S04E18: King Worm",
             "info": {
-              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya …. atau ada ke dia ?",
+              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya Â…. atau ada ke dia ?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021745X0-landscape.jpg",
@@ -16407,7 +16407,7 @@
             "episode": 19,
             "name": "S04E19: Who Would Win",
             "info": {
-              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan …tapi akhirnya mereka berlawan sesama sendiri!",
+              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan Â…tapi akhirnya mereka berlawan sesama sendiri!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021746X0-landscape.jpg",
@@ -16946,7 +16946,7 @@
             "episode": 18,
             "name": "S04E18: King Worm",
             "info": {
-              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya …. atau ada ke dia ?",
+              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya Â…. atau ada ke dia ?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021745X0-landscape.jpg",
@@ -16970,7 +16970,7 @@
             "episode": 19,
             "name": "S04E19: Who Would Win",
             "info": {
-              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan …tapi akhirnya mereka berlawan sesama sendiri!",
+              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan Â…tapi akhirnya mereka berlawan sesama sendiri!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021746X0-landscape.jpg",
@@ -17509,7 +17509,7 @@
             "episode": 18,
             "name": "S04E18: King Worm",
             "info": {
-              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya …. atau ada ke dia ?",
+              "plot": "Finn ada mimpi yang jelas, dan seluruh Ooo ada di dalamnya Â…. atau ada ke dia ?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021745X0-landscape.jpg",
@@ -17533,7 +17533,7 @@
             "episode": 19,
             "name": "S04E19: Who Would Win",
             "info": {
-              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan …tapi akhirnya mereka berlawan sesama sendiri!",
+              "plot": "Finn dan Jake mencabar raksasa - \"The Farm\" - untuk berlawan Â…tapi akhirnya mereka berlawan sesama sendiri!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021746X0-landscape.jpg",
@@ -17730,7 +17730,7 @@
             "episode": 1,
             "name": "S05E01: Finn The Human",
             "info": {
-              "plot": "Selepas mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
+              "plot": "SelepasÂ mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021754X0-landscape.jpg",
@@ -18018,7 +18018,7 @@
             "episode": 13,
             "name": "S05E13: The Great Birdman",
             "info": {
-              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas Rasa Goblin yang kini tinggal di gua.",
+              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas RasaÂ Goblin yang kini tinggal di gua.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021766X0-landscape.jpg",
@@ -18159,7 +18159,7 @@
             "episode": 19,
             "name": "S05E19: Princess Potluck",
             "info": {
-              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlis juadah bawaan puteri.",
+              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlisÂ juadah bawaan puteri.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021772X0-landscape.jpg",
@@ -18422,7 +18422,7 @@
             "episode": 31,
             "name": "S05E31: Time Sandwich",
             "info": {
-              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mesti menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
+              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mestiÂ menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021783X0-landscape.jpg",
@@ -18494,7 +18494,7 @@
             "episode": 34,
             "name": "S05E34: The Vault",
             "info": {
-              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady? Bagaimana dia ada hubungan dengan Finn?",
+              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady?Â Bagaimana dia ada hubungan dengan Finn?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021786X0-landscape.jpg",
@@ -18542,7 +18542,7 @@
             "episode": 37,
             "name": "S05E37: Dungeon Train",
             "info": {
-              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi … selamanya!",
+              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi Â… selamanya!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021788X0-landscape.jpg",
@@ -18660,7 +18660,7 @@
             "episode": 42,
             "name": "S05E42: The Pit",
             "info": {
-              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn … dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
+              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn Â… dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021793X0-landscape.jpg",
@@ -18708,7 +18708,7 @@
             "episode": 44,
             "name": "S05E44: Root Beer Guy",
             "info": {
-              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktu malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy ….",
+              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktuÂ malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy Â….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021795X0-landscape.jpg",
@@ -18801,7 +18801,7 @@
             "episode": 48,
             "name": "S05E48: Rattleballs",
             "info": {
-              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robot Gumball lama bernama Rattleballs. Finn terkejut, yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelap… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
+              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robotÂ Gumball lama bernama Rattleballs. Finn terkejut,Â yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelapÂ… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021799X0-landscape.jpg",
@@ -18918,7 +18918,7 @@
             "episode": 1,
             "name": "S05E01: Finn The Human",
             "info": {
-              "plot": "Selepas mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
+              "plot": "SelepasÂ mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021754X0-landscape.jpg",
@@ -19206,7 +19206,7 @@
             "episode": 13,
             "name": "S05E13: The Great Birdman",
             "info": {
-              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas Rasa Goblin yang kini tinggal di gua.",
+              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas RasaÂ Goblin yang kini tinggal di gua.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021766X0-landscape.jpg",
@@ -19347,7 +19347,7 @@
             "episode": 19,
             "name": "S05E19: Princess Potluck",
             "info": {
-              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlis juadah bawaan puteri.",
+              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlisÂ juadah bawaan puteri.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021772X0-landscape.jpg",
@@ -19610,7 +19610,7 @@
             "episode": 31,
             "name": "S05E31: Time Sandwich",
             "info": {
-              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mesti menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
+              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mestiÂ menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021783X0-landscape.jpg",
@@ -19682,7 +19682,7 @@
             "episode": 34,
             "name": "S05E34: The Vault",
             "info": {
-              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady? Bagaimana dia ada hubungan dengan Finn?",
+              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady?Â Bagaimana dia ada hubungan dengan Finn?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021786X0-landscape.jpg",
@@ -19730,7 +19730,7 @@
             "episode": 37,
             "name": "S05E37: Dungeon Train",
             "info": {
-              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi … selamanya!",
+              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi Â… selamanya!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021788X0-landscape.jpg",
@@ -19848,7 +19848,7 @@
             "episode": 42,
             "name": "S05E42: The Pit",
             "info": {
-              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn … dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
+              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn Â… dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021793X0-landscape.jpg",
@@ -19896,7 +19896,7 @@
             "episode": 44,
             "name": "S05E44: Root Beer Guy",
             "info": {
-              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktu malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy ….",
+              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktuÂ malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy Â….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021795X0-landscape.jpg",
@@ -19989,7 +19989,7 @@
             "episode": 48,
             "name": "S05E48: Rattleballs",
             "info": {
-              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robot Gumball lama bernama Rattleballs. Finn terkejut, yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelap… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
+              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robotÂ Gumball lama bernama Rattleballs. Finn terkejut,Â yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelapÂ… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021799X0-landscape.jpg",
@@ -20106,7 +20106,7 @@
             "episode": 1,
             "name": "S05E01: Finn The Human",
             "info": {
-              "plot": "Selepas mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
+              "plot": "SelepasÂ mengejar Lich menerusi gerbang , Finn dan Jake bertemu penunai permintaan bernama Prismo.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021754X0-landscape.jpg",
@@ -20394,7 +20394,7 @@
             "episode": 13,
             "name": "S05E13: The Great Birdman",
             "info": {
-              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas Rasa Goblin yang kini tinggal di gua.",
+              "plot": "Finn dan Jake sesat di dalam Badlands dan diselamatkan oleh Xergiok , bekas RasaÂ Goblin yang kini tinggal di gua.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021766X0-landscape.jpg",
@@ -20535,7 +20535,7 @@
             "episode": 19,
             "name": "S05E19: Princess Potluck",
             "info": {
-              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlis juadah bawaan puteri.",
+              "plot": "Ice King menjadi sangat cemburu bila dia mengetahui yang dia tidak diundang ke majlisÂ juadah bawaan puteri.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021772X0-landscape.jpg",
@@ -20798,7 +20798,7 @@
             "episode": 31,
             "name": "S05E31: Time Sandwich",
             "info": {
-              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mesti menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
+              "plot": "Jake membuat sandwic yang paling sedap , tetapi bila Magic Man mencurinya , Finn mestiÂ menentang undang undang ruang dan masa untuk mendapatkan semula ciptaan Jake.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021783X0-landscape.jpg",
@@ -20870,7 +20870,7 @@
             "episode": 34,
             "name": "S05E34: The Vault",
             "info": {
-              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady? Bagaimana dia ada hubungan dengan Finn?",
+              "plot": "Bila Finn mula tidur berjalan dan mimpikan tentang Green Lady dia telah menyimpan di dalam peti memorinya, Jake dan BMO membantunya meneroka ingatannya yang terganggu untuk mendedahkan rahsia yang lepas. Siapa itu Green Lady?Â Bagaimana dia ada hubungan dengan Finn?",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021786X0-landscape.jpg",
@@ -20918,7 +20918,7 @@
             "episode": 37,
             "name": "S05E37: Dungeon Train",
             "info": {
-              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi … selamanya!",
+              "plot": "Semua naik ! Finn dan Jake menemui keretapi di mana setiap gerabak ialah penjara yang dipenuhi dengan musuh baru untuk Finn berlawan. Jake cepat menjadi bosan dan mahu meninggalkan, tapi Finn ada masa yang paling seronok dan tidak mahu pergi Â… selamanya!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021788X0-landscape.jpg",
@@ -21036,7 +21036,7 @@
             "episode": 42,
             "name": "S05E42: The Pit",
             "info": {
-              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn … dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
+              "plot": "Kee-Oth Blood Demon telah menculik Jake, membawa Jake ke dimensinya dan mencampak ke lubang. Jika Finn mahu menyelamatkan kawannya, dia memerlukan bantuan Rainicorn Â… dan pita video yang mendedahkan bagaimana membuka gerbang ke dimensi Kee Oth yang huru hara.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021793X0-landscape.jpg",
@@ -21084,7 +21084,7 @@
             "episode": 44,
             "name": "S05E44: Root Beer Guy",
             "info": {
-              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktu malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy ….",
+              "plot": "Root Beer Guy melakukan kerja yang membosankan di waktu siang dan cuba menulis cerita misteri di waktuÂ malam. Tapi hidupnya hampir berubah apabila dia menjadi saksi Finn dan Jake menculik Princess Bubblegum! Cuma satu masalah: Tiada siapa percaya kan Root Beer Guy Â….",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021795X0-landscape.jpg",
@@ -21177,7 +21177,7 @@
             "episode": 48,
             "name": "S05E48: Rattleballs",
             "info": {
-              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robot Gumball lama bernama Rattleballs. Finn terkejut, yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelap… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
+              "plot": "Finn berlatih kemahiran melawan pedang di tempat buangan Gula, di mana da menjumpai robotÂ Gumball lama bernama Rattleballs. Finn terkejut,Â yang dia tidak sehebat yang difikirkan. Apa kisah nya?! Finn merayu Rattleball melatihnya , tapi kemudian dia mengetahui pembimbingnya, rahsia gelapÂ… rahsia yang memang menguji kesetian Finn tehadap Princess Bubblegum.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021799X0-landscape.jpg",
@@ -21644,7 +21644,7 @@
             "episode": 17,
             "name": "S06E17: Jake The Brick",
             "info": {
-              "plot": "Jake sets out to fulfill a bizarre lifelong ambition.",
+              "plot": "Jake sets out to fulfill a bizarreÂ lifelong ambition.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024135X0-landscape.jpg",
@@ -21667,7 +21667,7 @@
             "episode": 18,
             "name": "S06E18: Gold Stars",
             "info": {
-              "plot": "Tree Trunks and Mr. Pig's  child, Sweet Pig Trunks, runs into trouble on his first day of school.",
+              "plot": "Tree Trunks and Mr. Pig's Â child, Sweet Pig Trunks, runs into trouble on his first day of school.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024136X0-landscape.jpg",
@@ -21689,7 +21689,7 @@
             "episode": 19,
             "name": "S06E19: Evergreen",
             "info": {
-              "plot": "In a distant age, the wizard Evergreen quests to save the world.",
+              "plot": "In a distant age, the wizard Evergreen questsÂ to save the world.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024137X0-landscape.jpg",
@@ -21741,7 +21741,7 @@
             "episode": 21,
             "name": "S06E21: Ghost Fly",
             "info": {
-              "plot": "Jake and the tree house are haunted by a vengeful spectre.",
+              "plot": "Jake and the tree house areÂ haunted by a vengeful spectre.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024139X0-landscape.jpg",
@@ -21834,7 +21834,7 @@
             "episode": 25,
             "name": "S06E25: The Cooler",
             "info": {
-              "plot": "When the Fire Kingdom is struck by a natural disas ter, Flame Princess turns to an unlikely ally.",
+              "plot": "When the FireÂ KingdomÂ is struck by a natural disas ter,Â Flame Princess turns to an unlikely ally.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024143X0-landscape.jpg",
@@ -21857,7 +21857,7 @@
             "episode": 26,
             "name": "S06E26: The Mountain",
             "info": {
-              "plot": "Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew.",
+              "plot": "Lemongrab and Finn go on aÂ journey of discoveryÂ throughÂ the Mountain of Matthew.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024144X0-landscape.jpg",
@@ -21925,7 +21925,7 @@
             "episode": 29,
             "name": "S06E29: Dark Purple",
             "info": {
-              "plot": "Susan Strong and her allies infiltrate the mysterious Super Porp factory.",
+              "plot": "Susan Strong and her allies infiltrate the mysteriousÂ Super Porp factory.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024147X0-landscape.jpg",
@@ -22038,7 +22038,7 @@
             "episode": 34,
             "name": "S06E34: Chips And Ice Cream",
             "info": {
-              "plot": "BMO's favorite entertainers unexpectedly find a new home at the tree house.",
+              "plot": "BMO's favorite entertainers unexpectedly find aÂ new home at the tree house.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024152X0-landscape.jpg",
@@ -22154,7 +22154,7 @@
             "episode": 39,
             "name": "S06E39: Orgalorg",
             "info": {
-              "plot": "After a walrus race accident, Gunther starts to experience strange visions.",
+              "plot": "After a walrus race accident,Â Gunther starts to experienceÂ strange visions.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024157X0-landscape.jpg",
@@ -22164,7 +22164,7 @@
               "cast": [
                 "Tom Kenny",
                 "Pendleton Ward",
-                "Melissa Villaseñor",
+                "Melissa VillaseÃ±or",
                 "Matt Gourley"
               ]
             },
@@ -22176,7 +22176,7 @@
             "episode": 40,
             "name": "S06E40: On The Lam",
             "info": {
-              "plot": "Finn's dad Martin the Human fights for freedom on a strange new planet!",
+              "plot": "Finn's dadÂ Martin the Human fightsÂ for freedomÂ on a strangeÂ new planet!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024158X0-landscape.jpg",
@@ -22244,7 +22244,7 @@
             "episode": 43,
             "name": "S06E43: Water Park Prank",
             "info": {
-              "plot": "After rescuing Princess Orangutan from Daddy-sad-heads, Finn and Jake head to a post-apocalyptic water park for a day of fun.",
+              "plot": "After rescuing Princess Orangutan fromÂ Daddy-sad-heads, FinnÂ andÂ Jake head to a post-apocalypticÂ waterÂ park for a day of fun.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024161X0-landscape.jpg",
@@ -22612,7 +22612,7 @@
             "episode": 17,
             "name": "S06E17: Jake The Brick",
             "info": {
-              "plot": "Jake sets out to fulfill a bizarre lifelong ambition.",
+              "plot": "Jake sets out to fulfill a bizarreÂ lifelong ambition.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024135X0-landscape.jpg",
@@ -22635,7 +22635,7 @@
             "episode": 18,
             "name": "S06E18: Gold Stars",
             "info": {
-              "plot": "Tree Trunks and Mr. Pig's  child, Sweet Pig Trunks, runs into trouble on his first day of school.",
+              "plot": "Tree Trunks and Mr. Pig's Â child, Sweet Pig Trunks, runs into trouble on his first day of school.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024136X0-landscape.jpg",
@@ -22657,7 +22657,7 @@
             "episode": 19,
             "name": "S06E19: Evergreen",
             "info": {
-              "plot": "In a distant age, the wizard Evergreen quests to save the world.",
+              "plot": "In a distant age, the wizard Evergreen questsÂ to save the world.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024137X0-landscape.jpg",
@@ -22709,7 +22709,7 @@
             "episode": 21,
             "name": "S06E21: Ghost Fly",
             "info": {
-              "plot": "Jake and the tree house are haunted by a vengeful spectre.",
+              "plot": "Jake and the tree house areÂ haunted by a vengeful spectre.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024139X0-landscape.jpg",
@@ -22802,7 +22802,7 @@
             "episode": 25,
             "name": "S06E25: The Cooler",
             "info": {
-              "plot": "When the Fire Kingdom is struck by a natural disas ter, Flame Princess turns to an unlikely ally.",
+              "plot": "When the FireÂ KingdomÂ is struck by a natural disas ter,Â Flame Princess turns to an unlikely ally.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024143X0-landscape.jpg",
@@ -22825,7 +22825,7 @@
             "episode": 26,
             "name": "S06E26: The Mountain",
             "info": {
-              "plot": "Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew.",
+              "plot": "Lemongrab and Finn go on aÂ journey of discoveryÂ throughÂ the Mountain of Matthew.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024144X0-landscape.jpg",
@@ -22893,7 +22893,7 @@
             "episode": 29,
             "name": "S06E29: Dark Purple",
             "info": {
-              "plot": "Susan Strong and her allies infiltrate the mysterious Super Porp factory.",
+              "plot": "Susan Strong and her allies infiltrate the mysteriousÂ Super Porp factory.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024147X0-landscape.jpg",
@@ -23006,7 +23006,7 @@
             "episode": 34,
             "name": "S06E34: Chips And Ice Cream",
             "info": {
-              "plot": "BMO's favorite entertainers unexpectedly find a new home at the tree house.",
+              "plot": "BMO's favorite entertainers unexpectedly find aÂ new home at the tree house.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024152X0-landscape.jpg",
@@ -23122,7 +23122,7 @@
             "episode": 39,
             "name": "S06E39: Orgalorg",
             "info": {
-              "plot": "After a walrus race accident, Gunther starts to experience strange visions.",
+              "plot": "After a walrus race accident,Â Gunther starts to experienceÂ strange visions.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024157X0-landscape.jpg",
@@ -23132,7 +23132,7 @@
               "cast": [
                 "Tom Kenny",
                 "Pendleton Ward",
-                "Melissa Villaseñor",
+                "Melissa VillaseÃ±or",
                 "Matt Gourley"
               ]
             },
@@ -23144,7 +23144,7 @@
             "episode": 40,
             "name": "S06E40: On The Lam",
             "info": {
-              "plot": "Finn's dad Martin the Human fights for freedom on a strange new planet!",
+              "plot": "Finn's dadÂ Martin the Human fightsÂ for freedomÂ on a strangeÂ new planet!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024158X0-landscape.jpg",
@@ -23212,7 +23212,7 @@
             "episode": 43,
             "name": "S06E43: Water Park Prank",
             "info": {
-              "plot": "After rescuing Princess Orangutan from Daddy-sad-heads, Finn and Jake head to a post-apocalyptic water park for a day of fun.",
+              "plot": "After rescuing Princess Orangutan fromÂ Daddy-sad-heads, FinnÂ andÂ Jake head to a post-apocalypticÂ waterÂ park for a day of fun.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024161X0-landscape.jpg",
@@ -23580,7 +23580,7 @@
             "episode": 17,
             "name": "S06E17: Jake The Brick",
             "info": {
-              "plot": "Jake sets out to fulfill a bizarre lifelong ambition.",
+              "plot": "Jake sets out to fulfill a bizarreÂ lifelong ambition.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024135X0-landscape.jpg",
@@ -23603,7 +23603,7 @@
             "episode": 18,
             "name": "S06E18: Gold Stars",
             "info": {
-              "plot": "Tree Trunks and Mr. Pig's  child, Sweet Pig Trunks, runs into trouble on his first day of school.",
+              "plot": "Tree Trunks and Mr. Pig's Â child, Sweet Pig Trunks, runs into trouble on his first day of school.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024136X0-landscape.jpg",
@@ -23625,7 +23625,7 @@
             "episode": 19,
             "name": "S06E19: Evergreen",
             "info": {
-              "plot": "In a distant age, the wizard Evergreen quests to save the world.",
+              "plot": "In a distant age, the wizard Evergreen questsÂ to save the world.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024137X0-landscape.jpg",
@@ -23677,7 +23677,7 @@
             "episode": 21,
             "name": "S06E21: Ghost Fly",
             "info": {
-              "plot": "Jake and the tree house are haunted by a vengeful spectre.",
+              "plot": "Jake and the tree house areÂ haunted by a vengeful spectre.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024139X0-landscape.jpg",
@@ -23770,7 +23770,7 @@
             "episode": 25,
             "name": "S06E25: The Cooler",
             "info": {
-              "plot": "When the Fire Kingdom is struck by a natural disas ter, Flame Princess turns to an unlikely ally.",
+              "plot": "When the FireÂ KingdomÂ is struck by a natural disas ter,Â Flame Princess turns to an unlikely ally.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024143X0-landscape.jpg",
@@ -23793,7 +23793,7 @@
             "episode": 26,
             "name": "S06E26: The Mountain",
             "info": {
-              "plot": "Lemongrab and Finn go on a journey of discovery through the Mountain of Matthew.",
+              "plot": "Lemongrab and Finn go on aÂ journey of discoveryÂ throughÂ the Mountain of Matthew.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024144X0-landscape.jpg",
@@ -23861,7 +23861,7 @@
             "episode": 29,
             "name": "S06E29: Dark Purple",
             "info": {
-              "plot": "Susan Strong and her allies infiltrate the mysterious Super Porp factory.",
+              "plot": "Susan Strong and her allies infiltrate the mysteriousÂ Super Porp factory.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024147X0-landscape.jpg",
@@ -23974,7 +23974,7 @@
             "episode": 34,
             "name": "S06E34: Chips And Ice Cream",
             "info": {
-              "plot": "BMO's favorite entertainers unexpectedly find a new home at the tree house.",
+              "plot": "BMO's favorite entertainers unexpectedly find aÂ new home at the tree house.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024152X0-landscape.jpg",
@@ -24090,7 +24090,7 @@
             "episode": 39,
             "name": "S06E39: Orgalorg",
             "info": {
-              "plot": "After a walrus race accident, Gunther starts to experience strange visions.",
+              "plot": "After a walrus race accident,Â Gunther starts to experienceÂ strange visions.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024157X0-landscape.jpg",
@@ -24100,7 +24100,7 @@
               "cast": [
                 "Tom Kenny",
                 "Pendleton Ward",
-                "Melissa Villaseñor",
+                "Melissa VillaseÃ±or",
                 "Matt Gourley"
               ]
             },
@@ -24112,7 +24112,7 @@
             "episode": 40,
             "name": "S06E40: On The Lam",
             "info": {
-              "plot": "Finn's dad Martin the Human fights for freedom on a strange new planet!",
+              "plot": "Finn's dadÂ Martin the Human fightsÂ for freedomÂ on a strangeÂ new planet!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024158X0-landscape.jpg",
@@ -24180,7 +24180,7 @@
             "episode": 43,
             "name": "S06E43: Water Park Prank",
             "info": {
-              "plot": "After rescuing Princess Orangutan from Daddy-sad-heads, Finn and Jake head to a post-apocalyptic water park for a day of fun.",
+              "plot": "After rescuing Princess Orangutan fromÂ Daddy-sad-heads, FinnÂ andÂ Jake head to a post-apocalypticÂ waterÂ park for a day of fun.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1302-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/024161X0-landscape.jpg",
@@ -31481,6 +31481,7 @@
       }
     ]
   },
+  {
     "name": "We Bare Bears",
     "seasons": [
       {
@@ -31663,7 +31664,7 @@
             "episode": 9,
             "name": "S01E09: Food Truck",
             "info": {
-              "plot": "Beruang-beruang itu membuka trak makanan selepas kecewa dengan pilihan makanan yang boelh mereka beli. Dalam usaha untuk meningkatkan jualan, mereka mula menjual makanan mereka kepada haiwan… sehinggalah haiwan-haiwan itu menjadi tidak terkawal.",
+              "plot": "Beruang-beruang itu membuka trak makanan selepas kecewa dengan pilihan makanan yang boelh mereka beli. Dalam usaha untuk meningkatkan jualan, mereka mula menjual makanan mereka kepada haiwanÂ… sehinggalah haiwan-haiwan itu menjadi tidak terkawal.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1097-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1097-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/021952X0-landscape.jpg",
@@ -34006,7 +34007,7 @@
             "episode": 16,
             "name": "S04E16: Pizza Band",
             "info": {
-              "plot": "Beruang-Beruang mendapat pizza di Papa Bear’s Pizza Cave dan kesudahannya menggantikan kugiran animatronic di tempat itu. Mereka mendapat sambutan hangat hingga mereka pergi membuat lawatan!",
+              "plot": "Beruang-Beruang mendapat pizza di Papa BearÂ’s Pizza Cave dan kesudahannya menggantikan kugiran animatronic di tempat itu. Mereka mendapat sambutan hangat hingga mereka pergi membuat lawatan!",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1097-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1097-portrait.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/025649X0-landscape.jpg",
@@ -34665,7 +34666,7 @@
             "episode": 13,
             "name": "S01E13: Fiesta Day",
             "info": {
-              "plot": "Bears berparti bersama piñata hidup untuk Hari Fiesta. Kerana mahukan perayaan ini tidak berakhir, Grizz berharap ia menjadi Hari Fiesta setiap hari.",
+              "plot": "Bears berparti bersama piÃ±ata hidup untuk Hari Fiesta. Kerana mahukan perayaan ini tidak berakhir, Grizz berharap ia menjadi Hari Fiesta setiap hari.",
               "poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/season-se1704-portrait.jpg",
               "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/season-se1704-keyart.jpg",
               "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/035376X0-landscape.jpg",
